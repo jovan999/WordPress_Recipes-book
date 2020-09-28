@@ -32,6 +32,9 @@ https://stocksnap.io/photo/spoon-cup-VI0RJQ3IMH
 
 == Changelog ==
 
+= Version 1.3 =
+* Minor issue fixed in frontpage 
+
 = Version 1.2 =
 * Minor Changes in Description, demo link added
 * Welcome Page added
